@@ -66,9 +66,3 @@ docker run -p 5000:5000 flask-ubuntu
 
 ### Access the app
 Open [http://localhost:5000](http://localhost:5000) in your browser 🚀
-
----
-
-## Why Ubuntu?
-This example uses **Ubuntu** to demonstrate building from a general-purpose Linux distribution.  
-For production, using `python:3.11-slim` would result in a smaller, faster image — but Ubuntu is great for learning because you see the full install process.
